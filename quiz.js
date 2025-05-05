@@ -32,7 +32,7 @@ function loadQuestion(){
         button.style.backgroundColor = "";
     });
     feedbackElement.textContent = "";
-    //nextButton.style.display = "none"
+    nextButton.style.display = "none"
 };
 
 // Handle Answer Click
